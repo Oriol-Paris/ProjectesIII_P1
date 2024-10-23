@@ -1,10 +1,6 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
 	"EngineAssociation": "{1B6B20DD-464E-D676-9FC4-1D9484FA50D5}",
-=======
-	"EngineAssociation": "5.4",
->>>>>>> origin/feature/PlayerRework
 	"Category": "",
 	"Description": "",
 	"Plugins": [
